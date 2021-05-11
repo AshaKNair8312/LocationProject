@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+
+    <!--    bottomNavigation-->
+    <string name="home">Home</string>
+    <string name="city">City</string>
+    <string name="settings">Settings</string>
+
+    <!--    splash-->
+    <string name="contentDescription">Content Description</string>
+    <string name="appName">LocationApp</string>
+
+    <!--    home-->
+    <string name="getInfo">Get Weather Info</string>
+    <string name="delete">Unpin Location</string>
+    <string name="cancel">Cancel</string>
+
+    <!--    city-->
+    <string name="info">Weather Info</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="tempMin">Minimum Temperature</string>
+    <string name="tempMax">Maximum Temperature</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="windSpeed">Wind Speed</string>
+    <string name="clouds">Clouds</string>
+    <string name="degree">°C</string>
+    <string name="hpa">hPa</string>
+    <string name="percentage">%</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="wind">meter/sec</string>
+
+    <!--    settings-->
+    <string name="unitSystem">UnitSystem</string>
+    <string name="reset">Reset Cities Bookmarked</string>
+    <string name="standard">Standard</string>
+    <string name="metric">Metric</string>
+    <string name="imperial">Imperial</string>
+
+</resources>
